@@ -5,7 +5,7 @@ Well-Characterized Cell-Type Deconvolution Datasets
 This repository is a part of [decone](https://github.com/Honchkrow/decone).
 
 
-| NO. | NAME | Description | Type | Proportion | Source |
+| NO. | NAME | Description |  Reference Type | Proportion | Source |
 | :----: | :----: | :----: | :----: | :----: | :----: |
 | 1 | Abbas | Microarray | Bulk | known | [Abbas, *et al.*](https://doi.org/10.1371/journal.pone.0006098) |
 | 2 | Becht | Microarray | Bulk | known | [Becht, *et al.*](https://doi.org/10.1186/s13059-016-1070-5) |
