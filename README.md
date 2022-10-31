@@ -23,6 +23,10 @@ This repository is a part of [decone](https://honchkrow.github.io/decone).
 | 14 | kidney_Arvaniti_TPM | RNA-seq | Bulk | known | [	Arvaniti, *et al.*](https://doi.org/10.1038/srep26235) |
 | 15 | kidney_Craciun | RNA-seq | Single Cell | known | [Craciun, *et al.*](https://doi.org/10.1681/ASN.2015020225) |
 | 16 | kidney_Craciun_TPM | RNA-seq | Bulk | known | [Craciun, *et al.*](https://doi.org/10.1681/ASN.2015020225) |
+| 17 | TCGA 35 cancer datasets | RNA-seq | Bulk | known | [Vasaikar, *et al.*](https://doi.org/10.1093/nar/gkx1090) |
+
+Folder 'ClassificationAndSurvivalAnalysis_TCGA' contains 35 cancer datasets from TCGA with survival informations.
+
 
 Note: some dataset are collected from [dtangle](10.1093/bioinformatics/bty926) and [MuSiC](https://doi.org/10.1038/s41467-018-08023-x).
 
