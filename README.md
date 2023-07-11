@@ -25,7 +25,7 @@ This repository is a part of [decone](https://honchkrow.github.io/decone).
 | 16 | kidney_Craciun_TPM | RNA-seq | Bulk | unknown | [Craciun, *et al.*](https://doi.org/10.1681/ASN.2015020225) |
 | 17 | TCGA 35 cancer datasets | RNA-seq | Bulk | unknown | [Vasaikar, *et al.*](https://doi.org/10.1093/nar/gkx1090) |
 
-Folder 'ClassificationAndSurvivalAnalysis_TCGA' contains 35 cancer datasets from TCGA with survival informations.
+Folder 'ClassificationAndSurvivalAnalysis_TCGA' contains 35 cancer datasets from TCGA with clinical informations.
 
 
 Note: some dataset are collected from [dtangle](10.1093/bioinformatics/bty926) and [MuSiC](https://doi.org/10.1038/s41467-018-08023-x).
