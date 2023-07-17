@@ -1,8 +1,8 @@
-# DeconE_dataset
+# Deconer_dataset
 
 Well-Characterized Cell-Type Deconvolution Datasets
 
-This repository is a part of [DeconE](https://honchkrow.github.io/DeconE).
+This repository is a part of [Deconer](https://honchkrow.github.io/Deconer).
 
 
 | NO. | NAME | Description | Reference Type | Proportion | Source |
