@@ -34,6 +34,8 @@ Note: some dataset are collected from [dtangle](10.1093/bioinformatics/bty926) a
 
 Please cite the corresponding article when you use the datasets.
 
+Zhang, Wei, et al. "Deconer: A comprehensive and systematic evaluation toolkit for reference-based cell type deconvolution algorithms using gene expression data." bioRxiv (2023): 2023-12.
+
 
 **Links**:
 
