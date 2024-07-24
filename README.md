@@ -30,8 +30,17 @@ Folder 'ClassificationAndSurvivalAnalysis_TCGA' contains 35 cancer datasets from
 
 Note: some dataset are collected from [dtangle](10.1093/bioinformatics/bty926) and [MuSiC](https://doi.org/10.1038/s41467-018-08023-x).
 
+
+
 Please cite the corresponding article when you use the datasets.
 
+
+**Links**:
+
+- [Deconer](https://honchkrow.github.io/Deconer/)
+- [Deconer manual](https://honchkrow.github.io/Deconer/inst/documents/Deconer_manual.pdf)
+- [Deconer vignettes](https://honchkrow.github.io/Deconer/inst/documents/Deconer_intro.html)
+- [Deconer datasets](https://honchkrow.github.io/Deconer_dataset/)
 
 
 
